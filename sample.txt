@@ -3,4 +3,5 @@ This is a new line of code.
 This is a code added in qa branch.
 This code will create conflict.
 This is new code for qa.
-This will cause conflict.
+new line of code for the master.
+
