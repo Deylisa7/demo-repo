@@ -2,3 +2,5 @@ This is a sample file.
 This is a new line of code.
 This is a code added in qa branch.
 This code will create conflict.
+This is for the conflict.
+new line of code for the master.
